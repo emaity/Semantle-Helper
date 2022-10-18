@@ -16,7 +16,7 @@ model = KeyedVectors.load('wordVectors.kvmodel')
 
 
 while True:
-    print("Enter a word and its similarity:")
+    print("Enter a word and its similarity (on separate lines):")
     userGuess = input()
     guessSimilarity = float(input())
 
