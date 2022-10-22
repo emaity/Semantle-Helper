@@ -1,5 +1,5 @@
 # Semantle-Helper
-Helps the user find answers to the online game, Semantle.
+Helps the user find answers to the online game, [Semantle.](https://semantle.com/)
 
 # Before Running Helper.py
 Install the required packages by entering the Semantle-Helper directory and running:
